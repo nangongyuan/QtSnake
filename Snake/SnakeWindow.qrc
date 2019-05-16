@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/SnakeWindow">
+        <file>snake.ico</file>
+    </qresource>
+</RCC>
